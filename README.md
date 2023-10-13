@@ -46,3 +46,12 @@ Las 3 rutas son:
 ## Construido con 🛠️
 
 * [Node JS](https://nodejs.org/es/)
+
+
+# Front
+Creado con React Js
+Visualiza la infomación proporcionada por el backend, con filtros por fecha, la cuál visualizará una tabla y graficos según la información filtrada.
+
+## Despliegue 📦
+
+Ejecutar desde la carpeta ./frontend el comando npm install && npm start, la aplicación se ejecutará en el puerto 3000.
